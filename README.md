@@ -15,7 +15,7 @@ Repositori ini berisi solusi teknis untuk tes seleksi **IT Analyst** di **180 De
 - **Framework**: NestJS
 - **Language**: TypeScript
 - **Database**: PostgreSQL
-- **Database**: Prisma
+- **ORM**: Prisma
 
 ## ⚙️ Konfigurasi Environment & Database
 
