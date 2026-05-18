@@ -31,6 +31,8 @@ DATABASE_URL="postgres://postgres:underDevAdmin322@localhost:5432/dc"
 # Kunci Rahasia JWT
 JWT_SECRET="180_secret_180"
 
+```
+
 ## Cara Menjalankan
 
 1. **Clone Repositori:**
