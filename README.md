@@ -17,7 +17,7 @@ Repositori ini berisi solusi teknis untuk tes seleksi **IT Analyst** di **180 De
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 
-## ⚙️ Konfigurasi Environment & Database
+## Konfigurasi Environment & Database
 
 Proyek ini menggunakan **Prisma ORM** dengan **PostgreSQL**. Pastikan untuk mengatur file `.env` di direktori root sebelum menjalankan aplikasi.
 
