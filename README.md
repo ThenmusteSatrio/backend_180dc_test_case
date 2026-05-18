@@ -1,4 +1,4 @@
-# 180DC UNAIR - IT Analyst Test Case (Backend Proxy & Mock)
+# 180DC UNAIR - IT Analyst Test Case (Backend)
 
 Repositori ini berisi solusi teknis untuk tes seleksi **IT Analyst** di **180 Degrees Consulting Universitas Airlangga**. Proyek ini difokuskan pada pengembangan API / BACKEND
 
